@@ -1,0 +1,26 @@
+GN Epoch 1, param [Array([1., 1.], dtype=float64), Array([1., 1.], dtype=float64)], PDE Error 15.331688454746786
+GN Epoch 2, param [Array([1., 1.], dtype=float64), Array([1., 1.], dtype=float64)], PDE Error 0.2553999840338687
+GN Epoch 3, param [Array([1., 1.], dtype=float64), Array([1., 1.], dtype=float64)], PDE Error 6.3020801299212665e-06
+GN Epoch 4, param [Array([1., 1.], dtype=float64), Array([1., 1.], dtype=float64)], PDE Error 1.210894230971084e-08
+GN Epoch 5, param [Array([1., 1.], dtype=float64), Array([1., 1.], dtype=float64)], PDE Error 1.129957313179229e-10
+GN Epoch 6, param [Array([1., 1.], dtype=float64), Array([1., 1.], dtype=float64)], PDE Error 3.8057333413072643e-13
+GN Epoch 7, param [Array([1., 1.], dtype=float64), Array([1., 1.], dtype=float64)], PDE Error 4.160135397842868e-15
+GN Epoch 8, param [Array([1., 1.], dtype=float64), Array([1., 1.], dtype=float64)], PDE Error 1.4755832850577943e-17
+GN Epoch 9, param [Array([1., 1.], dtype=float64), Array([1., 1.], dtype=float64)], PDE Error 1.6082990143069283e-19
+GN Epoch 10, param [Array([1., 1.], dtype=float64), Array([1., 1.], dtype=float64)], PDE Error 5.872640690537447e-22
+GN Epoch 11, param [Array([1., 1.], dtype=float64), Array([1., 1.], dtype=float64)], PDE Error 6.288872073159161e-24
+GN Epoch 12, param [Array([1., 1.], dtype=float64), Array([1., 1.], dtype=float64)], PDE Error 2.427728583338772e-26
+GN Epoch 13, param [Array([1., 1.], dtype=float64), Array([1., 1.], dtype=float64)], PDE Error 2.6645084006920664e-28
+GN Epoch 14, param [Array([1., 1.], dtype=float64), Array([1., 1.], dtype=float64)], PDE Error 1.2131692172034542e-30
+GN Epoch 15, param [Array([1., 1.], dtype=float64), Array([1., 1.], dtype=float64)], PDE Error 6.293081143002477e-31
+GN Epoch 16, param [Array([1., 1.], dtype=float64), Array([1., 1.], dtype=float64)], PDE Error 6.647739975090786e-31
+GN Epoch 17, param [Array([1., 1.], dtype=float64), Array([1., 1.], dtype=float64)], PDE Error 6.1263839709171e-31
+GN Epoch 18, param [Array([1., 1.], dtype=float64), Array([1., 1.], dtype=float64)], PDE Error 6.096511373799215e-31
+GN Epoch 19, param [Array([1., 1.], dtype=float64), Array([1., 1.], dtype=float64)], PDE Error 5.617892545367848e-31
+GN Epoch 20, param [Array([1., 1.], dtype=float64), Array([1., 1.], dtype=float64)], PDE Error 6.215269605145366e-31
+Learned params:  [Array([1., 1.], dtype=float64), Array([1., 1.], dtype=float64)]
+Elapsed:  19.47727608680725
+L2 error of u:  0.4617860051607326
+L infty error of u:  1.3485027933554936
+L2 error of v:  0.17077836163788268
+L infty error of v:  0.4419225731158102

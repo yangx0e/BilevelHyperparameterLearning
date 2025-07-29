@@ -1,0 +1,185 @@
+        Learning Hyperparameters, GN Epoch 0, Learning Hyper Epoch 0, Current Loss 0.00037706717045131596
+        Learning Hyperparameters, GN Epoch 0, Learning Hyper Epoch 1, Current Loss 0.0003297581257917014
+        Learning Hyperparameters, GN Epoch 0, Learning Hyper Epoch 2, Current Loss 0.000285119881917673
+        Learning Hyperparameters, GN Epoch 0, Learning Hyper Epoch 3, Current Loss 0.00024374881167944687
+        Learning Hyperparameters, GN Epoch 0, Learning Hyper Epoch 4, Current Loss 0.00020616982462536463
+        Learning Hyperparameters, GN Epoch 0, Learning Hyper Epoch 5, Current Loss 0.00017267551475254146
+        Learning Hyperparameters, GN Epoch 0, Learning Hyper Epoch 6, Current Loss 0.00014342693618130047
+        Learning Hyperparameters, GN Epoch 0, Learning Hyper Epoch 7, Current Loss 0.00011831808808680916
+        Learning Hyperparameters, GN Epoch 0, Learning Hyper Epoch 8, Current Loss 9.70761816041699e-05
+        Learning Hyperparameters, GN Epoch 0, Learning Hyper Epoch 9, Current Loss 7.932602356642917e-05
+        Learning Hyperparameters, GN Epoch 0, Learning Hyper Epoch 10, Current Loss 6.463218858919579e-05
+        Learning Hyperparameters, GN Epoch 0, Learning Hyper Epoch 11, Current Loss 5.2551762639937596e-05
+        Learning Hyperparameters, GN Epoch 0, Learning Hyper Epoch 12, Current Loss 4.267326150501442e-05
+        Learning Hyperparameters, GN Epoch 0, Learning Hyper Epoch 13, Current Loss 3.4626572215196345e-05
+        Learning Hyperparameters, GN Epoch 0, Learning Hyper Epoch 14, Current Loss 2.809476838775687e-05
+        Learning Hyperparameters, GN Epoch 0, Learning Hyper Epoch 15, Current Loss 2.2817110462842e-05
+        Learning Hyperparameters, GN Epoch 0, Learning Hyper Epoch 16, Current Loss 1.8560861251294923e-05
+        Learning Hyperparameters, GN Epoch 0, Learning Hyper Epoch 17, Current Loss 1.5139653697297007e-05
+        Learning Hyperparameters, GN Epoch 0, Learning Hyper Epoch 18, Current Loss 1.239492423269177e-05
+        Learning Hyperparameters, GN Epoch 0, Learning Hyper Epoch 19, Current Loss 1.0194888772818965e-05
+        Learning Hyperparameters, GN Epoch 0, Learning Hyper Epoch 20, Current Loss 8.43311456368872e-06
+Stopping early at epoch 20 due to loss threshold
+GN Epoch 1, param [Array([1.1675752119444764, 0.8310818139743159], dtype=float64), Array([1.140143277460219 , 0.8519564566714615], dtype=float64)], PDE Error 141.92894080700998
+        Learning Hyperparameters, GN Epoch 1, Learning Hyper Epoch 0, Current Loss 1.7137682214245313
+        Learning Hyperparameters, GN Epoch 1, Learning Hyper Epoch 1, Current Loss 1.6959370052372933
+        Learning Hyperparameters, GN Epoch 1, Learning Hyper Epoch 2, Current Loss 1.6797642135006443
+        Learning Hyperparameters, GN Epoch 1, Learning Hyper Epoch 3, Current Loss 1.665041730104728
+        Learning Hyperparameters, GN Epoch 1, Learning Hyper Epoch 4, Current Loss 1.649972405823613
+        Learning Hyperparameters, GN Epoch 1, Learning Hyper Epoch 5, Current Loss 1.634638575173872
+        Learning Hyperparameters, GN Epoch 1, Learning Hyper Epoch 6, Current Loss 1.6193757659279218
+        Learning Hyperparameters, GN Epoch 1, Learning Hyper Epoch 7, Current Loss 1.6043147817759713
+        Learning Hyperparameters, GN Epoch 1, Learning Hyper Epoch 8, Current Loss 1.5888739025808067
+        Learning Hyperparameters, GN Epoch 1, Learning Hyper Epoch 9, Current Loss 1.5726101941923163
+        Learning Hyperparameters, GN Epoch 1, Learning Hyper Epoch 10, Current Loss 1.5545852832590703
+        Learning Hyperparameters, GN Epoch 1, Learning Hyper Epoch 11, Current Loss 1.5332214808662643
+        Learning Hyperparameters, GN Epoch 1, Learning Hyper Epoch 12, Current Loss 1.5067757246677318
+        Learning Hyperparameters, GN Epoch 1, Learning Hyper Epoch 13, Current Loss 1.4730155064561414
+        Learning Hyperparameters, GN Epoch 1, Learning Hyper Epoch 14, Current Loss 1.4291841923693471
+        Learning Hyperparameters, GN Epoch 1, Learning Hyper Epoch 15, Current Loss 1.3727444593041707
+        Learning Hyperparameters, GN Epoch 1, Learning Hyper Epoch 16, Current Loss 1.3019264043527088
+        Learning Hyperparameters, GN Epoch 1, Learning Hyper Epoch 17, Current Loss 1.215802938785989
+        Learning Hyperparameters, GN Epoch 1, Learning Hyper Epoch 18, Current Loss 1.115757533733603
+        Learning Hyperparameters, GN Epoch 1, Learning Hyper Epoch 19, Current Loss 1.005791367800771
+        Learning Hyperparameters, GN Epoch 1, Learning Hyper Epoch 20, Current Loss 0.8931448083528611
+        Learning Hyperparameters, GN Epoch 1, Learning Hyper Epoch 21, Current Loss 0.7866078826718158
+        Learning Hyperparameters, GN Epoch 1, Learning Hyper Epoch 22, Current Loss 0.6935442293795218
+        Learning Hyperparameters, GN Epoch 1, Learning Hyper Epoch 23, Current Loss 0.6175910649861186
+        Learning Hyperparameters, GN Epoch 1, Learning Hyper Epoch 24, Current Loss 0.5571429378126411
+        Learning Hyperparameters, GN Epoch 1, Learning Hyper Epoch 25, Current Loss 0.5070808016570859
+        Learning Hyperparameters, GN Epoch 1, Learning Hyper Epoch 26, Current Loss 0.46224962462450586
+        Learning Hyperparameters, GN Epoch 1, Learning Hyper Epoch 27, Current Loss 0.41977370606908304
+        Learning Hyperparameters, GN Epoch 1, Learning Hyper Epoch 28, Current Loss 0.3790919947933236
+        Learning Hyperparameters, GN Epoch 1, Learning Hyper Epoch 29, Current Loss 0.3410879789580262
+        Learning Hyperparameters, GN Epoch 1, Learning Hyper Epoch 30, Current Loss 0.30713181392893407
+        Learning Hyperparameters, GN Epoch 1, Learning Hyper Epoch 31, Current Loss 0.27798473453962474
+        Learning Hyperparameters, GN Epoch 1, Learning Hyper Epoch 32, Current Loss 0.25358340510539473
+        Learning Hyperparameters, GN Epoch 1, Learning Hyper Epoch 33, Current Loss 0.23348581597878615
+        Learning Hyperparameters, GN Epoch 1, Learning Hyper Epoch 34, Current Loss 0.2173364973110037
+        Learning Hyperparameters, GN Epoch 1, Learning Hyper Epoch 35, Current Loss 0.20458552038420025
+        Learning Hyperparameters, GN Epoch 1, Learning Hyper Epoch 36, Current Loss 0.1946081411527106
+        Learning Hyperparameters, GN Epoch 1, Learning Hyper Epoch 37, Current Loss 0.18684363914981905
+        Learning Hyperparameters, GN Epoch 1, Learning Hyper Epoch 38, Current Loss 0.1806881400305433
+        Learning Hyperparameters, GN Epoch 1, Learning Hyper Epoch 39, Current Loss 0.1757041779180772
+        Learning Hyperparameters, GN Epoch 1, Learning Hyper Epoch 40, Current Loss 0.17149626569762416
+        Learning Hyperparameters, GN Epoch 1, Learning Hyper Epoch 41, Current Loss 0.1677548224666314
+        Learning Hyperparameters, GN Epoch 1, Learning Hyper Epoch 42, Current Loss 0.1642709728862508
+        Learning Hyperparameters, GN Epoch 1, Learning Hyper Epoch 43, Current Loss 0.16092190907720197
+        Learning Hyperparameters, GN Epoch 1, Learning Hyper Epoch 44, Current Loss 0.15762736830533405
+        Learning Hyperparameters, GN Epoch 1, Learning Hyper Epoch 45, Current Loss 0.1543324535281631
+        Learning Hyperparameters, GN Epoch 1, Learning Hyper Epoch 46, Current Loss 0.15102012829729886
+        Learning Hyperparameters, GN Epoch 1, Learning Hyper Epoch 47, Current Loss 0.14766787773264362
+        Learning Hyperparameters, GN Epoch 1, Learning Hyper Epoch 48, Current Loss 0.14428744383686232
+        Learning Hyperparameters, GN Epoch 1, Learning Hyper Epoch 49, Current Loss 0.14088565349620288
+GN Epoch 2, param [Array([1.215159365560518  , 0.41390102700240444], dtype=float64), Array([1.4091848639888116, 0.4111667448961263], dtype=float64)], PDE Error 37.571225644839366
+        Learning Hyperparameters, GN Epoch 2, Learning Hyper Epoch 0, Current Loss 0.08050259224696264
+        Learning Hyperparameters, GN Epoch 2, Learning Hyper Epoch 1, Current Loss 0.07367509278058008
+        Learning Hyperparameters, GN Epoch 2, Learning Hyper Epoch 2, Current Loss 0.06641461399798952
+        Learning Hyperparameters, GN Epoch 2, Learning Hyper Epoch 3, Current Loss 0.0585334060830129
+        Learning Hyperparameters, GN Epoch 2, Learning Hyper Epoch 4, Current Loss 0.05017860984941486
+        Learning Hyperparameters, GN Epoch 2, Learning Hyper Epoch 5, Current Loss 0.041655935267632616
+        Learning Hyperparameters, GN Epoch 2, Learning Hyper Epoch 6, Current Loss 0.03353579540479517
+        Learning Hyperparameters, GN Epoch 2, Learning Hyper Epoch 7, Current Loss 0.026734900392743736
+        Learning Hyperparameters, GN Epoch 2, Learning Hyper Epoch 8, Current Loss 0.02158957709246216
+        Learning Hyperparameters, GN Epoch 2, Learning Hyper Epoch 9, Current Loss 0.017712450781703096
+        Learning Hyperparameters, GN Epoch 2, Learning Hyper Epoch 10, Current Loss 0.014765901467152185
+        Learning Hyperparameters, GN Epoch 2, Learning Hyper Epoch 11, Current Loss 0.012536378512692771
+        Learning Hyperparameters, GN Epoch 2, Learning Hyper Epoch 12, Current Loss 0.010713873495761436
+        Learning Hyperparameters, GN Epoch 2, Learning Hyper Epoch 13, Current Loss 0.009218300566842494
+        Learning Hyperparameters, GN Epoch 2, Learning Hyper Epoch 14, Current Loss 0.00808455827221522
+        Learning Hyperparameters, GN Epoch 2, Learning Hyper Epoch 15, Current Loss 0.007222595916592479
+        Learning Hyperparameters, GN Epoch 2, Learning Hyper Epoch 16, Current Loss 0.006497953506187105
+        Learning Hyperparameters, GN Epoch 2, Learning Hyper Epoch 17, Current Loss 0.005809632702753847
+        Learning Hyperparameters, GN Epoch 2, Learning Hyper Epoch 18, Current Loss 0.005083502322181956
+        Learning Hyperparameters, GN Epoch 2, Learning Hyper Epoch 19, Current Loss 0.004302110698905661
+        Learning Hyperparameters, GN Epoch 2, Learning Hyper Epoch 20, Current Loss 0.0035197111560727836
+        Learning Hyperparameters, GN Epoch 2, Learning Hyper Epoch 21, Current Loss 0.002804857936074358
+        Learning Hyperparameters, GN Epoch 2, Learning Hyper Epoch 22, Current Loss 0.0022129150705596733
+        Learning Hyperparameters, GN Epoch 2, Learning Hyper Epoch 23, Current Loss 0.001768839490156387
+        Learning Hyperparameters, GN Epoch 2, Learning Hyper Epoch 24, Current Loss 0.001448983615372201
+        Learning Hyperparameters, GN Epoch 2, Learning Hyper Epoch 25, Current Loss 0.0012127361104602382
+        Learning Hyperparameters, GN Epoch 2, Learning Hyper Epoch 26, Current Loss 0.0010337656552282864
+        Learning Hyperparameters, GN Epoch 2, Learning Hyper Epoch 27, Current Loss 0.000893830728406985
+        Learning Hyperparameters, GN Epoch 2, Learning Hyper Epoch 28, Current Loss 0.0007795737128272434
+        Learning Hyperparameters, GN Epoch 2, Learning Hyper Epoch 29, Current Loss 0.0006844667809187494
+        Learning Hyperparameters, GN Epoch 2, Learning Hyper Epoch 30, Current Loss 0.000605830452419395
+        Learning Hyperparameters, GN Epoch 2, Learning Hyper Epoch 31, Current Loss 0.0005410270387149289
+        Learning Hyperparameters, GN Epoch 2, Learning Hyper Epoch 32, Current Loss 0.00048722389266938796
+        Learning Hyperparameters, GN Epoch 2, Learning Hyper Epoch 33, Current Loss 0.0004422842253128168
+        Learning Hyperparameters, GN Epoch 2, Learning Hyper Epoch 34, Current Loss 0.00040479173346203345
+        Learning Hyperparameters, GN Epoch 2, Learning Hyper Epoch 35, Current Loss 0.0003735939014004764
+        Learning Hyperparameters, GN Epoch 2, Learning Hyper Epoch 36, Current Loss 0.0003475860604741303
+        Learning Hyperparameters, GN Epoch 2, Learning Hyper Epoch 37, Current Loss 0.0003257597234026448
+        Learning Hyperparameters, GN Epoch 2, Learning Hyper Epoch 38, Current Loss 0.0003073255304581794
+        Learning Hyperparameters, GN Epoch 2, Learning Hyper Epoch 39, Current Loss 0.00029168278514472113
+        Learning Hyperparameters, GN Epoch 2, Learning Hyper Epoch 40, Current Loss 0.00027839406885544
+        Learning Hyperparameters, GN Epoch 2, Learning Hyper Epoch 41, Current Loss 0.00026712115690611765
+        Learning Hyperparameters, GN Epoch 2, Learning Hyper Epoch 42, Current Loss 0.00025757497898369234
+        Learning Hyperparameters, GN Epoch 2, Learning Hyper Epoch 43, Current Loss 0.0002494907277392765
+        Learning Hyperparameters, GN Epoch 2, Learning Hyper Epoch 44, Current Loss 0.00024264631892002058
+        Learning Hyperparameters, GN Epoch 2, Learning Hyper Epoch 45, Current Loss 0.00023682796833081145
+        Learning Hyperparameters, GN Epoch 2, Learning Hyper Epoch 46, Current Loss 0.00023185651075246507
+        Learning Hyperparameters, GN Epoch 2, Learning Hyper Epoch 47, Current Loss 0.00022757554997723448
+        Learning Hyperparameters, GN Epoch 2, Learning Hyper Epoch 48, Current Loss 0.0002238703466698871
+        Learning Hyperparameters, GN Epoch 2, Learning Hyper Epoch 49, Current Loss 0.00022063943940033192
+GN Epoch 3, param [Array([1.1125061304329193 , 0.17410607174999249], dtype=float64), Array([1.4773153033115467 , 0.16695972978712595], dtype=float64)], PDE Error 0.4273915406674624
+        Learning Hyperparameters, GN Epoch 3, Learning Hyper Epoch 0, Current Loss 5.271712946125764e-05
+        Learning Hyperparameters, GN Epoch 3, Learning Hyper Epoch 1, Current Loss 2.3737646620969422e-05
+        Learning Hyperparameters, GN Epoch 3, Learning Hyper Epoch 2, Current Loss 1.254913406408258e-05
+        Learning Hyperparameters, GN Epoch 3, Learning Hyper Epoch 3, Current Loss 6.988157804337843e-06
+Stopping early at epoch 3 due to loss threshold
+GN Epoch 4, param [Array([1.0772441726272668, 0.1383750575925127], dtype=float64), Array([1.4431018989764328 , 0.13220962106785697], dtype=float64)], PDE Error 2.6122020218568327e-05
+        Learning Hyperparameters, GN Epoch 4, Learning Hyper Epoch 0, Current Loss 4.657225325623083e-06
+Stopping early at epoch 0 due to loss threshold
+GN Epoch 5, param [Array([1.0672646973375008 , 0.12837557593896523], dtype=float64), Array([1.433118591124743  , 0.12221026397570504], dtype=float64)], PDE Error 1.6642129327215916e-14
+        Learning Hyperparameters, GN Epoch 5, Learning Hyper Epoch 0, Current Loss 2.385580175177009e-06
+Stopping early at epoch 0 due to loss threshold
+GN Epoch 6, param [Array([1.057330874640018  , 0.11837764463514228], dtype=float64), Array([1.4231423072652831 , 0.11221268228845685], dtype=float64)], PDE Error 5.489227292134724e-17
+        Learning Hyperparameters, GN Epoch 6, Learning Hyper Epoch 0, Current Loss 2.119897403707321e-06
+Stopping early at epoch 0 due to loss threshold
+GN Epoch 7, param [Array([1.047389413217819  , 0.10838822936310222], dtype=float64), Array([1.4331261444784078, 0.1222070162042473], dtype=float64)], PDE Error 1.3956420634813408e-17
+        Learning Hyperparameters, GN Epoch 7, Learning Hyper Epoch 0, Current Loss 1.3223549631457304e-06
+Stopping early at epoch 0 due to loss threshold
+GN Epoch 8, param [Array([1.0377208734503371 , 0.09842353500726457], dtype=float64), Array([1.4430802723963567 , 0.11221230204332801], dtype=float64)], PDE Error 1.9479097956711428e-17
+        Learning Hyperparameters, GN Epoch 8, Learning Hyper Epoch 0, Current Loss 1.1505145339034042e-06
+Stopping early at epoch 0 due to loss threshold
+GN Epoch 9, param [Array([1.044488896050725  , 0.08851059937669745], dtype=float64), Array([1.4530521451457499 , 0.10221867046169351], dtype=float64)], PDE Error 9.2147327415533e-18
+        Learning Hyperparameters, GN Epoch 9, Learning Hyper Epoch 0, Current Loss 3.1392558544267385e-06
+Stopping early at epoch 0 due to loss threshold
+GN Epoch 10, param [Array([1.034524000878225  , 0.09850497139646774], dtype=float64), Array([1.4630469928649403 , 0.11221803407095245], dtype=float64)], PDE Error 1.886721986238348e-17
+        Learning Hyperparameters, GN Epoch 10, Learning Hyper Epoch 0, Current Loss 1.6269762049833944e-06
+Stopping early at epoch 0 due to loss threshold
+GN Epoch 11, param [Array([1.044390327125212  , 0.08857371579559452], dtype=float64), Array([1.473030782653757  , 0.10230451081227619], dtype=float64)], PDE Error 9.345890388096065e-18
+        Learning Hyperparameters, GN Epoch 11, Learning Hyper Epoch 0, Current Loss 3.042644540424869e-06
+Stopping early at epoch 0 due to loss threshold
+GN Epoch 12, param [Array([1.034433570753707  , 0.09856831791289856], dtype=float64), Array([1.482981156820699  , 0.11230203151761375], dtype=float64)], PDE Error 2.0393030127258302e-17
+        Learning Hyperparameters, GN Epoch 12, Learning Hyper Epoch 0, Current Loss 1.4116847757925561e-06
+Stopping early at epoch 0 due to loss threshold
+GN Epoch 13, param [Array([1.0442388266727713 , 0.10736837638911419], dtype=float64), Array([1.473007306485107  , 0.10230485959749984], dtype=float64)], PDE Error 1.0559522924496212e-17
+        Learning Hyperparameters, GN Epoch 13, Learning Hyper Epoch 0, Current Loss 1.4844744022624532e-06
+Stopping early at epoch 0 due to loss threshold
+GN Epoch 14, param [Array([1.0541157343348908 , 0.11730358298684807], dtype=float64), Array([1.4829959894496907 , 0.11229815209920886], dtype=float64)], PDE Error 2.4916407792985454e-17
+        Learning Hyperparameters, GN Epoch 14, Learning Hyper Epoch 0, Current Loss 1.90833283203666e-06
+Stopping early at epoch 0 due to loss threshold
+GN Epoch 15, param [Array([1.0441866580487484 , 0.10730801192929926], dtype=float64), Array([1.4929573992550536 , 0.10230067584884994], dtype=float64)], PDE Error 1.3853316697811607e-17
+        Learning Hyperparameters, GN Epoch 15, Learning Hyper Epoch 0, Current Loss 1.8913251410634439e-06
+Stopping early at epoch 0 due to loss threshold
+GN Epoch 16, param [Array([1.0541342670267582 , 0.11729927866467844], dtype=float64), Array([1.5028818629352272, 0.1122979858200941], dtype=float64)], PDE Error 2.7129629949411674e-17
+        Learning Hyperparameters, GN Epoch 16, Learning Hyper Epoch 0, Current Loss 1.7824979183065126e-06
+Stopping early at epoch 0 due to loss threshold
+GN Epoch 17, param [Array([1.044283019627855  , 0.10730265281705678], dtype=float64), Array([1.4928959382910478 , 0.10230030110468648], dtype=float64)], PDE Error 2.718556589910511e-17
+        Learning Hyperparameters, GN Epoch 17, Learning Hyper Epoch 0, Current Loss 1.3370226245538196e-06
+Stopping early at epoch 0 due to loss threshold
+GN Epoch 18, param [Array([1.0541954585882896 , 0.11729361074947074], dtype=float64), Array([1.5027238961394727 , 0.11229800148293181], dtype=float64)], PDE Error 2.7027736174291416e-17
+        Learning Hyperparameters, GN Epoch 18, Learning Hyper Epoch 0, Current Loss 2.494345294103889e-06
+Stopping early at epoch 0 due to loss threshold
+GN Epoch 19, param [Array([1.0442922478298462 , 0.10729970384038161], dtype=float64), Array([1.492732000401771  , 0.10230021535670357], dtype=float64)], PDE Error 2.7173337079915325e-17
+        Learning Hyperparameters, GN Epoch 19, Learning Hyper Epoch 0, Current Loss 2.312990587111803e-06
+Stopping early at epoch 0 due to loss threshold
+GN Epoch 20, param [Array([1.054222872471899  , 0.11729420563926866], dtype=float64), Array([1.5027194310662566 , 0.11229842374596849], dtype=float64)], PDE Error 2.718013561226381e-17
+Learned params:  [Array([1.054222872471899  , 0.11729420563926866], dtype=float64), Array([1.5027194310662566 , 0.11229842374596849], dtype=float64)]
+Elapsed:  150.73166394233704
+L2 error of u:  0.0001302380529079392
+L infty error of u:  0.00042193803694279275
+L2 error of u:  0.00010158175899547707
+L infty error of u:  0.00028217429523280657

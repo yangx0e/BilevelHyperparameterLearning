@@ -1,0 +1,26 @@
+GN Epoch 1, param [Array([1.0542, 0.1173], dtype=float64), Array([1.5027, 0.1123], dtype=float64)], PDE Error 148.91442381005152
+GN Epoch 2, param [Array([1.0542, 0.1173], dtype=float64), Array([1.5027, 0.1123], dtype=float64)], PDE Error 29.176836314391025
+GN Epoch 3, param [Array([1.0542, 0.1173], dtype=float64), Array([1.5027, 0.1123], dtype=float64)], PDE Error 0.21243637069969012
+GN Epoch 4, param [Array([1.0542, 0.1173], dtype=float64), Array([1.5027, 0.1123], dtype=float64)], PDE Error 4.991673748209471e-06
+GN Epoch 5, param [Array([1.0542, 0.1173], dtype=float64), Array([1.5027, 0.1123], dtype=float64)], PDE Error 5.711273419405695e-16
+GN Epoch 6, param [Array([1.0542, 0.1173], dtype=float64), Array([1.5027, 0.1123], dtype=float64)], PDE Error 4.933016906241231e-30
+GN Epoch 7, param [Array([1.0542, 0.1173], dtype=float64), Array([1.5027, 0.1123], dtype=float64)], PDE Error 4.406965604481428e-30
+GN Epoch 8, param [Array([1.0542, 0.1173], dtype=float64), Array([1.5027, 0.1123], dtype=float64)], PDE Error 5.965639988195453e-30
+GN Epoch 9, param [Array([1.0542, 0.1173], dtype=float64), Array([1.5027, 0.1123], dtype=float64)], PDE Error 4.8615222023303824e-30
+GN Epoch 10, param [Array([1.0542, 0.1173], dtype=float64), Array([1.5027, 0.1123], dtype=float64)], PDE Error 4.172485843281254e-30
+GN Epoch 11, param [Array([1.0542, 0.1173], dtype=float64), Array([1.5027, 0.1123], dtype=float64)], PDE Error 4.752149078860528e-30
+GN Epoch 12, param [Array([1.0542, 0.1173], dtype=float64), Array([1.5027, 0.1123], dtype=float64)], PDE Error 4.36745788307566e-30
+GN Epoch 13, param [Array([1.0542, 0.1173], dtype=float64), Array([1.5027, 0.1123], dtype=float64)], PDE Error 5.092237109822148e-30
+GN Epoch 14, param [Array([1.0542, 0.1173], dtype=float64), Array([1.5027, 0.1123], dtype=float64)], PDE Error 4.656230330589814e-30
+GN Epoch 15, param [Array([1.0542, 0.1173], dtype=float64), Array([1.5027, 0.1123], dtype=float64)], PDE Error 4.657495140759678e-30
+GN Epoch 16, param [Array([1.0542, 0.1173], dtype=float64), Array([1.5027, 0.1123], dtype=float64)], PDE Error 3.8625286564262405e-30
+GN Epoch 17, param [Array([1.0542, 0.1173], dtype=float64), Array([1.5027, 0.1123], dtype=float64)], PDE Error 4.174778801930872e-30
+GN Epoch 18, param [Array([1.0542, 0.1173], dtype=float64), Array([1.5027, 0.1123], dtype=float64)], PDE Error 4.6822658705779635e-30
+GN Epoch 19, param [Array([1.0542, 0.1173], dtype=float64), Array([1.5027, 0.1123], dtype=float64)], PDE Error 4.700792146949758e-30
+GN Epoch 20, param [Array([1.0542, 0.1173], dtype=float64), Array([1.5027, 0.1123], dtype=float64)], PDE Error 4.5382243743418495e-30
+Learned params:  [Array([1.0542, 0.1173], dtype=float64), Array([1.5027, 0.1123], dtype=float64)]
+Elapsed:  19.54165029525757
+L2 error of u:  0.0001312291626924927
+L infty error of u:  0.0004099089953431001
+L2 error of u:  0.00010176648918666863
+L infty error of u:  0.000332511749403519
